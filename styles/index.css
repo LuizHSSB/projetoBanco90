@@ -81,13 +81,14 @@ header p{
 }
 
 #welcome p {
-    width: 29%;
+    width: 27%;
     border-radius: 5px;
     border: solid 3px var(--orange2);
     margin-top: 30px;
     padding: 20px;
     background-color: var(--grey);
     color: white;
+    cursor: pointer;
 }
 
 #bgcolor{
