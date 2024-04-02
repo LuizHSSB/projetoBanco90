@@ -116,6 +116,7 @@ header p{
     justify-content: center;
     padding: 80px 160px;
     border: solid 2px black;
+    flex-wrap: wrap; /*é responsável por não deixar a imagem distorcer, joga ela pra baixo*/
 }
 
 #forpag img{
